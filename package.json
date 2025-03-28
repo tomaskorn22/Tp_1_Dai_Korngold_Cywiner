@@ -1,0 +1,19 @@
+{
+  "name": "tp_1_dai_korngold_cywiner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomaskorn22/Tp_1_Dai_Korngold_Cywiner.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomaskorn22/Tp_1_Dai_Korngold_Cywiner/issues"
+  },
+  "homepage": "https://github.com/tomaskorn22/Tp_1_Dai_Korngold_Cywiner#readme"
+}
