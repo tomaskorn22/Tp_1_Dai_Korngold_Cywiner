@@ -1,0 +1,15 @@
+// Importo las funciones y constantes del módulo matemática
+import { PI, sumar, restar, multiplicar, dividir, numerosTexto } from "./modules/matematica.js";
+
+let numero1 = 10, numero2 = 20;
+
+console.clear();
+console.log(`La constante PI vale '${PI}'`); // Uso la constante PI importada.
+
+console.log(`sumar(${numero1}, ${numero2}) = ${sumar(numero1, numero2)}`);
+console.log(`restar(${numero1}, ${numero2}) = ${restar(numero1, numero2)}`);
+console.log(`multiplicar(${numero1}, ${numero2}) = ${multiplicar(numero1, numero2)}`);
+console.log(`dividir(${numero1}, ${numero2}) = ${dividir(numero1, numero2)}`);
+
+console.log("Array de números en texto:");
+numerosTexto.forEach(num => console.log(num));
