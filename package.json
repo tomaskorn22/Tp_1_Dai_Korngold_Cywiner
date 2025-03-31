@@ -2,6 +2,7 @@
   "name": "tp_1_dai_korngold_cywiner",
   "version": "1.0.0",
   "description": "",
+  "type" : "module",
   "main": "index.js",
   "scripts": {
     "ej01": "node src/ej01.js",
