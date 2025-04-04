@@ -5,7 +5,6 @@ function obtenerMoneda(codigoPais) {
     return countryData ? countryData.currency : null;
 }
 
-// Ejemplo de uso
 let monedaDelPais, codigoPais;
 
 codigoPais = 'ARG'; 
